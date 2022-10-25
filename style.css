@@ -1,0 +1,15 @@
+#h1{
+    color:blue;
+    font-size: 25px;
+}
+#h3{
+    color: red;
+    font-weight: 100;
+}
+
+
+.foot{
+    position: fixed;
+    color:red;
+    bottom: 25px;
+}
